@@ -1,0 +1,3734 @@
+{
+ "item_list": [
+  {
+   "item_name": "Potion",
+   "item_description": "Restores a small amount of health.",
+   "item_type": "0",
+   "item_buy_price": "66",
+   "item_URL": "https://mhrise.kiranico.com/data/items/470023020",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/470023020.png"
+  },
+  {
+   "item_name": "Mega Potion",
+   "item_description": "Restores a moderate amount of health.",
+   "item_type": "0",
+   "item_buy_price": "165",
+   "item_URL": "https://mhrise.kiranico.com/data/items/518335245",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/518335245.png"
+  },
+  {
+   "item_name": "Max Potion",
+   "item_description": "Fully restores health.",
+   "item_type": "0",
+   "item_buy_price": "1700",
+   "item_URL": "https://mhrise.kiranico.com/data/items/321555279",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/321555279.png"
+  },
+  {
+   "item_name": "Ancient Potion",
+   "item_description": "Fully restores your health and stamina.",
+   "item_type": "0",
+   "item_buy_price": "2450",
+   "item_URL": "https://mhrise.kiranico.com/data/items/257504089",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/257504089.png",
+   "quest_rewards": [
+    {
+     "quest_name": "A★7 Arena 05",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/27771159",
+     "amount": "x1",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "A★8 Arena 06",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/41496884",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "quest_name": "E★6 Challenge Quest 02",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1345496856",
+     "amount": "x1",
+     "rate": "20%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 03",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1360271161",
+     "amount": "x1",
+     "rate": "20%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 04",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1408059102",
+     "amount": "x1",
+     "rate": "20%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 05",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1556526847",
+     "amount": "x1",
+     "rate": "20%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 06",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1570760348",
+     "amount": "x1",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "E★8 Challenge Quest 07",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1584486077",
+     "amount": "x1",
+     "rate": "26%"
+    }
+   ]
+  },
+  {
+   "item_name": "Antidote",
+   "item_description": "A cure for poison/venom.",
+   "item_type": "0",
+   "item_buy_price": "60",
+   "item_URL": "https://mhrise.kiranico.com/data/items/100469319",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/100469319.png"
+  },
+  {
+   "item_name": "Herbal Medicine",
+   "item_description": "Removes all traces of poison and restores a slight amount of health.",
+   "item_type": "0",
+   "item_buy_price": "250",
+   "item_URL": "https://mhrise.kiranico.com/data/items/807645777",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/807645777.png"
+  },
+  {
+   "item_name": "Nulberry",
+   "item_description": "Mysterious berry that cures blights and resistance down.",
+   "item_type": "0",
+   "item_buy_price": "1200",
+   "item_URL": "https://mhrise.kiranico.com/data/items/41239627",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/41239627.png",
+   "monster_items": [
+    {
+     "monster": "Altaroth",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/518617233",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "90%"
+    },
+    {
+     "monster": "Altaroth",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/518617233",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x2",
+     "rate": "90%"
+    },
+    {
+     "monster": "Altaroth",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/518617233",
+     "rank": "Low Rank",
+     "method": "Target Rewards",
+     "amount": "x2",
+     "rate": "24%"
+    }
+   ],
+   "quest_rewards": [
+    {
+     "quest_name": "V★2 Plump and Juicy",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2117059430",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★2 A Frosty Paradise",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2130785031",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★2 Out Cold",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2044355364",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★2 Hmm, Not So Tasty...",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1684959899",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★1 Jumped in the Frost Islands",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1707146256",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★1 No Cure for the Common Baggi",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1721379889",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★1 Hot Topic Hooligans",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1826149290",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★4 Didn't Get the Memo",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1584060364",
+     "amount": "x2",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★4 Dango Duty",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1166194438",
+     "amount": "x2",
+     "rate": "14%"
+    }
+   ]
+  },
+  {
+   "item_name": "Cleanser",
+   "item_description": "Immediately removes any foam or webbing on your body.",
+   "item_type": "0",
+   "item_buy_price": "140",
+   "item_URL": "https://mhrise.kiranico.com/data/items/114719332",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/114719332.png"
+  },
+  {
+   "item_name": "Deodorant",
+   "item_description": "An item that cures Stench, hellfireblight, and blast- blight when thrown down.",
+   "item_type": "0",
+   "item_buy_price": "80",
+   "item_URL": "https://mhrise.kiranico.com/data/items/128952837",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/128952837.png"
+  },
+  {
+   "item_name": "Energy Drink",
+   "item_description": "A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!",
+   "item_type": "0",
+   "item_buy_price": "60",
+   "item_URL": "https://mhrise.kiranico.com/data/items/188742467",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/188742467.png"
+  },
+  {
+   "item_name": "Ration",
+   "item_description": "Food that restores a bit of stamina.",
+   "item_type": "0",
+   "item_buy_price": "30",
+   "item_URL": "https://mhrise.kiranico.com/data/items/899654386",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/899654386.png",
+   "monster_items": [
+    {
+     "monster": "Melynx",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1623747362",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "28%"
+    },
+    {
+     "monster": "Melynx",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1623747362",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "28%"
+    },
+    {
+     "monster": "Melynx",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1623747362",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "28%"
+    },
+    {
+     "monster": "Melynx",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1623747362",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "28%"
+    },
+    {
+     "monster": "Melynx",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1623747362",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "28%"
+    },
+    {
+     "monster": "Melynx",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1623747362",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "28%"
+    }
+   ]
+  },
+  {
+   "item_name": "Rare Steak",
+   "item_description": "Provides a moderate boost to your stamina. This one's still red in the middle.",
+   "item_type": "0",
+   "item_buy_price": "30",
+   "item_URL": "https://mhrise.kiranico.com/data/items/229544859",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/229544859.png"
+  },
+  {
+   "item_name": "Well-done Steak",
+   "item_description": "Food that fully restores stamina.",
+   "item_type": "0",
+   "item_buy_price": "96",
+   "item_URL": "https://mhrise.kiranico.com/data/items/532585250",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/532585250.png",
+   "quest_rewards": [
+    {
+     "quest_name": "A★1 Arena 01",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1985219023",
+     "amount": "x1",
+     "rate": "30%"
+    },
+    {
+     "quest_name": "A★2 Arena 02",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1094141411",
+     "amount": "x1",
+     "rate": "30%"
+    },
+    {
+     "quest_name": "A★3 Arena 03",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1544728967",
+     "amount": "x1",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "A★6 Arena 04",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/918852979",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "E★2 Challenge Quest 01",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1465481083",
+     "amount": "x1",
+     "rate": "65%"
+    },
+    {
+     "quest_name": "E★6 Challenge Quest 02",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1345496856",
+     "amount": "x2",
+     "rate": "30%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 03",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1360271161",
+     "amount": "x2",
+     "rate": "30%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 04",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1408059102",
+     "amount": "x2",
+     "rate": "30%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 05",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1556526847",
+     "amount": "x2",
+     "rate": "30%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 06",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1570760348",
+     "amount": "x3",
+     "rate": "20%"
+    }
+   ]
+  },
+  {
+   "item_name": "Burnt Meat",
+   "item_description": "Meat that has been burnt to a crisp. It might boost your stamina, or drain it...",
+   "item_type": "0",
+   "item_buy_price": "10",
+   "item_URL": "https://mhrise.kiranico.com/data/items/243778488",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/243778488.png"
+  },
+  {
+   "item_name": "Immunizer",
+   "item_description": "Boosts your natural ability to heal.",
+   "item_type": "0",
+   "item_buy_price": "600",
+   "item_URL": "https://mhrise.kiranico.com/data/items/885420765",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/885420765.png"
+  },
+  {
+   "item_name": "Dash Juice",
+   "item_description": "Reduces stamina depletion for a period of time as well as restoring a bit of stamina.",
+   "item_type": "0",
+   "item_buy_price": "293",
+   "item_URL": "https://mhrise.kiranico.com/data/items/913379987",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/913379987.png"
+  },
+  {
+   "item_name": "Might Seed",
+   "item_description": "Temporarily strengthens your attacks when ingested by improving energy flow.",
+   "item_type": "0",
+   "item_buy_price": "280",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1032384981",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1032384981.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★4 Getting Back the Groceries",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1125010032",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "V★4 So Hot, It Melts Iron",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1334991319",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "V★4 THE BEST Quest",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1215007220",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★6 The Lava Caverns Sweep",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/697290355",
+     "amount": "x2",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "H★7 Can't Kill It with Fire",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/182322183",
+     "amount": "x2",
+     "rate": "15%"
+    }
+   ]
+  },
+  {
+   "item_name": "Demondrug",
+   "item_description": "Boosts your attack power by filling you with—guess what?—demonic strength.",
+   "item_type": "0",
+   "item_buy_price": "668",
+   "item_URL": "https://mhrise.kiranico.com/data/items/870208023",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/870208023.png"
+  },
+  {
+   "item_name": "Mega Demondrug",
+   "item_description": "Boosts your attack power even more than a regular Demondrug.",
+   "item_type": "0",
+   "item_buy_price": "2831",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1018659380",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1018659380.png"
+  },
+  {
+   "item_name": "Adamant Seed",
+   "item_description": "Temporarily raises your defense when ingested by hardening tissue.",
+   "item_type": "0",
+   "item_buy_price": "220",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1003446606",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1003446606.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Walking on Eggshells",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1959124696",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "V★3 The Cactus Diet",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1943911954",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "V★3 A Sandy Cabal",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2092363315",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "V★4 Deliver the Liver",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1320741430",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "H★2 Dawn of the Kestodon",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2143555406",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "H★5 Bad Review",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1573593790",
+     "amount": "x2",
+     "rate": "15%"
+    }
+   ]
+  },
+  {
+   "item_name": "Armorskin",
+   "item_description": "Boosts your defense by turning your skin as hard as rock.",
+   "item_type": "0",
+   "item_buy_price": "578",
+   "item_URL": "https://mhrise.kiranico.com/data/items/941408648",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/941408648.png"
+  },
+  {
+   "item_name": "Mega Armorskin",
+   "item_description": "Boosts your defense even more than a regular armorskin.",
+   "item_type": "0",
+   "item_buy_price": "2696",
+   "item_URL": "https://mhrise.kiranico.com/data/items/989213097",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/989213097.png"
+  },
+  {
+   "item_name": "Lifepowder",
+   "item_description": "Produces a cloud that heals you and anyone nearby.",
+   "item_type": "0",
+   "item_buy_price": "480",
+   "item_URL": "https://mhrise.kiranico.com/data/items/412601027",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/412601027.png",
+   "quest_rewards": [
+    {
+     "quest_name": "A★1 Arena 01",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1985219023",
+     "amount": "x1",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "A★2 Arena 02",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1094141411",
+     "amount": "x1",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "A★3 Arena 03",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1544728967",
+     "amount": "x1",
+     "rate": "27%"
+    },
+    {
+     "quest_name": "A★6 Arena 04",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/918852979",
+     "amount": "x1",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "A★7 Arena 05",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/27771159",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "quest_name": "A★8 Arena 06",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/41496884",
+     "amount": "x1",
+     "rate": "23%"
+    },
+    {
+     "quest_name": "E★2 Challenge Quest 01",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1465481083",
+     "amount": "x1",
+     "rate": "27%"
+    },
+    {
+     "quest_name": "E★6 Challenge Quest 02",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1345496856",
+     "amount": "x1",
+     "rate": "40%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 03",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1360271161",
+     "amount": "x1",
+     "rate": "40%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 04",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1408059102",
+     "amount": "x1",
+     "rate": "40%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 05",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1556526847",
+     "amount": "x1",
+     "rate": "40%"
+    },
+    {
+     "quest_name": "E★7 Challenge Quest 06",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1570760348",
+     "amount": "x1",
+     "rate": "38%"
+    },
+    {
+     "quest_name": "E★8 Challenge Quest 07",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1584486077",
+     "amount": "x1",
+     "rate": "46%"
+    }
+   ]
+  },
+  {
+   "item_name": "Dust of Life",
+   "item_description": "Produces a cloud that restores a large amount of health for you and anyone nearby.",
+   "item_type": "0",
+   "item_buy_price": "4000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/137519998",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/137519998.png",
+   "quest_rewards": [
+    {
+     "quest_name": "E★7 Challenge Quest 06",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1570760348",
+     "amount": "x1",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "E★8 Challenge Quest 07",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1584486077",
+     "amount": "x1",
+     "rate": "18%"
+    }
+   ]
+  },
+  {
+   "item_name": "Herbal Powder",
+   "item_description": "Produces a cloud that cures poison and heals you a bit.",
+   "item_type": "0",
+   "item_buy_price": "6300",
+   "item_URL": "https://mhrise.kiranico.com/data/items/822403702",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/822403702.png"
+  },
+  {
+   "item_name": "Demon Powder",
+   "item_description": "A mysterious powder; when dispersed, temporarily strengthens attacks.",
+   "item_type": "0",
+   "item_buy_price": "6300",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1046618570",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1046618570.png"
+  },
+  {
+   "item_name": "Hardshell Powder",
+   "item_description": "A mysterious powder; when dispersed, temporarily strengthens defense.",
+   "item_type": "0",
+   "item_buy_price": "6300",
+   "item_URL": "https://mhrise.kiranico.com/data/items/614519151",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/614519151.png"
+  },
+  {
+   "item_name": "Flash Bomb",
+   "item_description": "Flashes brightly on impact. Toss this right under a monster's nose to blind it.",
+   "item_type": "0",
+   "item_buy_price": "572",
+   "item_URL": "https://mhrise.kiranico.com/data/items/692721769",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/692721769.png"
+  },
+  {
+   "item_name": "Sonic Bomb",
+   "item_description": "A hand-thrown bomb that emits a high-frequency blast of sound on detonation.",
+   "item_type": "0",
+   "item_buy_price": "450",
+   "item_URL": "https://mhrise.kiranico.com/data/items/762007655",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/762007655.png"
+  },
+  {
+   "item_name": "Dung Bomb",
+   "item_description": "A particularly odorous ball that causes monsters to flee.",
+   "item_type": "0",
+   "item_buy_price": "120",
+   "item_URL": "https://mhrise.kiranico.com/data/items/643134873",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/643134873.png"
+  },
+  {
+   "item_name": "Tranq Bomb",
+   "item_description": "A bomb used to capture monsters ensnared in traps. Can be used in various ways.",
+   "item_type": "0",
+   "item_buy_price": "180",
+   "item_URL": "https://mhrise.kiranico.com/data/items/776765444",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/776765444.png"
+  },
+  {
+   "item_name": "Poison Smoke Bomb",
+   "item_description": "Releases a toxic cloud of mist when used. Also popular as a household bug bomb.",
+   "item_type": "0",
+   "item_buy_price": "600",
+   "item_URL": "https://mhrise.kiranico.com/data/items/747757638",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/747757638.png"
+  },
+  {
+   "item_name": "Farcaster",
+   "item_description": "Instantly transports you to the nearest camp. Can also be used during battles.",
+   "item_type": "0",
+   "item_buy_price": "150",
+   "item_URL": "https://mhrise.kiranico.com/data/items/599306401",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/599306401.png"
+  },
+  {
+   "item_name": "BBQ Spit",
+   "item_description": "Just what you need to cook meat. A must-have item for any hungry hunter.",
+   "item_type": "1",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/36944376",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/36944376.png"
+  },
+  {
+   "item_name": "Whetstone",
+   "item_description": "A standard-sized whetstone. Use it to restore a weapon's sharpness.",
+   "item_type": "1",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/426326752",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/426326752.png"
+  },
+  {
+   "item_name": "Throwing Kunai",
+   "item_description": "A standard throwing kunai. Flies straight and true. Allows for precise aiming.",
+   "item_type": "1",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/384558122",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/384558122.png"
+  },
+  {
+   "item_name": "Raw Meat",
+   "item_description": "Meat carved from a monster. You might catch a certain Flooded Forest fish with it.",
+   "item_type": "0",
+   "item_buy_price": "50",
+   "item_URL": "https://mhrise.kiranico.com/data/items/444871952",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/444871952.png",
+   "monster_items": [
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "70%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "70%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "70%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "70%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "60%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "60%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "60%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "60%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Target Rewards",
+     "amount": "x1",
+     "rate": "42%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "41%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "41%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "41%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "41%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "32%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "32%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "32%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "32%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Target Rewards",
+     "amount": "x3",
+     "rate": "25%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Target Rewards",
+     "amount": "x2",
+     "rate": "23%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Target Rewards",
+     "amount": "x2",
+     "rate": "12%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "10%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "Low Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "10%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "10%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "10%"
+    },
+    {
+     "monster": "Bombadgy",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1181483312",
+     "rank": "High Rank",
+     "method": "Target Rewards",
+     "amount": "x3",
+     "rate": "10%"
+    }
+   ]
+  },
+  {
+   "item_name": "Poisoned Meat",
+   "item_description": "Raw meat that poisons whatever eats it. Makes great bait for traps.",
+   "item_type": "0",
+   "item_buy_price": "188",
+   "item_URL": "https://mhrise.kiranico.com/data/items/657760450",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/657760450.png"
+  },
+  {
+   "item_name": "Tinged Meat",
+   "item_description": "Raw meat that paralyzes whatever eats it. Makes great bait for traps.",
+   "item_type": "0",
+   "item_buy_price": "300",
+   "item_URL": "https://mhrise.kiranico.com/data/items/537792739",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/537792739.png"
+  },
+  {
+   "item_name": "Drugged Meat",
+   "item_description": "Raw meat that puts whatever eats it to sleep. Makes great bait for traps.",
+   "item_type": "0",
+   "item_buy_price": "315",
+   "item_URL": "https://mhrise.kiranico.com/data/items/585580672",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/585580672.png"
+  },
+  {
+   "item_name": "Gunpowder",
+   "item_description": "A dangerous substance that explodes when struck or heated.",
+   "item_type": "2",
+   "item_buy_price": "90",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1377211357",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1377211357.png"
+  },
+  {
+   "item_name": "Small Barrel",
+   "item_description": "A small, empty barrel.",
+   "item_type": "2",
+   "item_buy_price": "80",
+   "item_URL": "https://mhrise.kiranico.com/data/items/155949362",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/155949362.png"
+  },
+  {
+   "item_name": "Barrel Bomb",
+   "item_description": "A small time bomb.",
+   "item_type": "0",
+   "item_buy_price": "156",
+   "item_URL": "https://mhrise.kiranico.com/data/items/279362536",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/279362536.png"
+  },
+  {
+   "item_name": "Large Barrel",
+   "item_description": "A large, empty barrel. Combine with gunpowder to make it into a bomb.",
+   "item_type": "2",
+   "item_buy_price": "210",
+   "item_URL": "https://mhrise.kiranico.com/data/items/170707155",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/170707155.png"
+  },
+  {
+   "item_name": "Large Barrel Bomb",
+   "item_description": "A powerful bomb triggered by external physical impact.",
+   "item_type": "0",
+   "item_buy_price": "518",
+   "item_URL": "https://mhrise.kiranico.com/data/items/293596041",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/293596041.png"
+  },
+  {
+   "item_name": "Mega Barrel Bomb",
+   "item_description": "An upgraded large barrel bomb. Effective against large monsters.",
+   "item_type": "0",
+   "item_buy_price": "800",
+   "item_URL": "https://mhrise.kiranico.com/data/items/643002669",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/643002669.png"
+  },
+  {
+   "item_name": "Ivy",
+   "item_description": "A lightweight and extremely strong plant. Used to make nets for pitfall traps.",
+   "item_type": "2",
+   "item_buy_price": "75",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1068965621",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1068965621.png"
+  },
+  {
+   "item_name": "Spider Web",
+   "item_description": "A very sticky web. Used to craft pitfall traps.",
+   "item_type": "2",
+   "item_buy_price": "60",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1362963516",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1362963516.png"
+  },
+  {
+   "item_name": "Net",
+   "item_description": "A hardy net that can support weight without breaking. Perfect for pitfall traps.",
+   "item_type": "2",
+   "item_buy_price": "108",
+   "item_URL": "https://mhrise.kiranico.com/data/items/2064735379",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2064735379.png"
+  },
+  {
+   "item_name": "Trap Tool",
+   "item_description": "A must-have item for putting together pitfall traps and other kinds of traps.",
+   "item_type": "2",
+   "item_buy_price": "200",
+   "item_URL": "https://mhrise.kiranico.com/data/items/184957168",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/184957168.png"
+  },
+  {
+   "item_name": "Pitfall Trap",
+   "item_description": "A trap for catching certain large monsters. It is tripped by a heavy weight.",
+   "item_type": "0",
+   "item_buy_price": "400",
+   "item_URL": "https://mhrise.kiranico.com/data/items/459105585",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/459105585.png"
+  },
+  {
+   "item_name": "Shock Trap",
+   "item_description": "A trap that immobilizes a target. Use it to capture monsters.",
+   "item_type": "0",
+   "item_buy_price": "320",
+   "item_URL": "https://mhrise.kiranico.com/data/items/307321774",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/307321774.png"
+  },
+  {
+   "item_name": "Sushifish",
+   "item_description": "A fatty fish that can restore a small amount of health.",
+   "item_type": "0",
+   "item_buy_price": "90",
+   "item_URL": "https://mhrise.kiranico.com/data/items/200082236",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/200082236.png",
+   "monster_items": [
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "85%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "80%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "75%"
+    }
+   ]
+  },
+  {
+   "item_name": "Gourmet Fish",
+   "item_description": "Recovers the red portion of the Health Gauge and increases natural recovery.",
+   "item_type": "0",
+   "item_buy_price": "80",
+   "item_URL": "https://mhrise.kiranico.com/data/items/151769887",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/151769887.png"
+  },
+  {
+   "item_name": "Whetfish",
+   "item_description": "A fish with a dorsal fin hard enough to be used to sharpen weapons.",
+   "item_type": "0",
+   "item_buy_price": "135",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1417885625",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1417885625.png"
+  },
+  {
+   "item_name": "Great Whetfish",
+   "item_description": "A jumbo-sized Whetfish. Its dorsal fin surpasses even whetstones in functionality.",
+   "item_type": "0",
+   "item_buy_price": "270",
+   "item_URL": "https://mhrise.kiranico.com/data/items/315008356",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/315008356.png"
+  },
+  {
+   "item_name": "Gastronome Tuna",
+   "item_description": "A fish that eats anything— allowing you to sometimes get items from its stomach.",
+   "item_type": "7",
+   "item_buy_price": "140",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1089562030",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1089562030.png"
+  },
+  {
+   "item_name": "Great Gastronome Tuna",
+   "item_description": "An enormous Gastronome Tuna. Will eat anything, no matter the size.",
+   "item_type": "7",
+   "item_buy_price": "280",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1103811919",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1103811919.png"
+  },
+  {
+   "item_name": "Powercharm",
+   "item_description": "An amulet that strengthens attacks. Just carrying this gives you demonic strength.",
+   "item_type": "2",
+   "item_buy_price": "36000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/903833745",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/903833745.png"
+  },
+  {
+   "item_name": "Powertalon",
+   "item_description": "A charm that strengthens attacks. Its effects are boosted by the claws within.",
+   "item_type": "2",
+   "item_buy_price": "68400",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1060868587",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1060868587.png"
+  },
+  {
+   "item_name": "Armorcharm",
+   "item_description": "An amulet that increases defense. Just carrying this makes your skin stone hard.",
+   "item_type": "2",
+   "item_buy_price": "24000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/917559478",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/917559478.png"
+  },
+  {
+   "item_name": "Armortalon",
+   "item_description": "A charm that strengthens defense. Its effects are boosted by the claws within.",
+   "item_type": "2",
+   "item_buy_price": "50400",
+   "item_URL": "https://mhrise.kiranico.com/data/items/628752652",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/628752652.png"
+  },
+  {
+   "item_name": "Catalyst",
+   "item_description": "Works with other materials to enhance their effects. Cannot be used by itself.",
+   "item_type": "2",
+   "item_buy_price": "480",
+   "item_URL": "https://mhrise.kiranico.com/data/items/2051009778",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2051009778.png"
+  },
+  {
+   "item_name": "Honey",
+   "item_description": "Highly nutritious honey. Combine with potions to make the more potent mega potion.",
+   "item_type": "2",
+   "item_buy_price": "90",
+   "item_URL": "https://mhrise.kiranico.com/data/items/84411639",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/84411639.png",
+   "monster_items": [
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "100%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x3",
+     "rate": "100%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x3",
+     "rate": "100%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "90%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x2",
+     "rate": "90%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "Low Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x2",
+     "rate": "20%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x4",
+     "rate": "20%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x4",
+     "rate": "20%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "Low Rank",
+     "method": "Target Rewards",
+     "amount": "x3",
+     "rate": "14%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "High Rank",
+     "method": "Target Rewards",
+     "amount": "x6",
+     "rate": "10%"
+    },
+    {
+     "monster": "Arzuros",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1374346390",
+     "rank": "High Rank",
+     "method": "Target Rewards",
+     "amount": "x6",
+     "rate": "10%"
+    }
+   ],
+   "quest_rewards": [
+    {
+     "quest_name": "V★1 Roly-poly Lanterns",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1636956044",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "V★1 Fungal Frustrations",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1651189677",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "V★1 Impious Peons",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1665963842",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "V★1 Help With Maintenance",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1814415203",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "V★2 Great Izuchi, Great Pain",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2088575904",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "V★2 Case of the Creepy Crawlies",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2073363194",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "V★3 Supply Run",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1881349724",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "H★1 Tired and Feathered",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1693420659",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "H★1 Wroggi Place, Wroggi Time",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1616167927",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "H★1 Off the Beaten Path",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1644651445",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "H★4 The Swirling Gale",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1555574798",
+     "amount": "x2",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Divine Comedy",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1569808431",
+     "amount": "x2",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Donning Toxicity",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1540364096",
+     "amount": "x2",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Totally Not Cool, Kulu!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1180428071",
+     "amount": "x2",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Honing Your Hunting Horn",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1075218149",
+     "amount": "x2",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Learning the Light Bowgun",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1136731835",
+     "amount": "x2",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Lost and Found",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1285199448",
+     "amount": "x2",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "E★2 Rising Sun!?",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1528543694",
+     "amount": "x1",
+     "rate": "17%"
+    },
+    {
+     "quest_name": "E★2 Gotta Hoard Fast!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1174202863",
+     "amount": "x1",
+     "rate": "17%"
+    }
+   ]
+  },
+  {
+   "item_name": "Herb",
+   "item_description": "A primary ingredient in potions.",
+   "item_type": "2",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/27006122",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/27006122.png",
+   "monster_items": [
+    {
+     "monster": "Gargwa",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/262999744",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "40%"
+    },
+    {
+     "monster": "Gargwa",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/262999744",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x2",
+     "rate": "40%"
+    }
+   ],
+   "quest_rewards": [
+    {
+     "quest_name": "V★1 Roly-poly Lanterns",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1636956044",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "V★1 Fungal Frustrations",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1651189677",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "V★1 Impious Peons",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1665963842",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "V★1 Help With Maintenance",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1814415203",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "V★2 Great Izuchi, Great Pain",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2088575904",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "V★2 Case of the Creepy Crawlies",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2073363194",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "V★3 Supply Run",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1881349724",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "H★1 Tired and Feathered",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1693420659",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "H★1 Wroggi Place, Wroggi Time",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1616167927",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "H★1 Off the Beaten Path",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1644651445",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "H★4 The Swirling Gale",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1555574798",
+     "amount": "x3",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "H★4 Divine Comedy",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1569808431",
+     "amount": "x3",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "H★4 Donning Toxicity",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1540364096",
+     "amount": "x3",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "H★4 Totally Not Cool, Kulu!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1180428071",
+     "amount": "x3",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "H★4 Honing Your Hunting Horn",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1075218149",
+     "amount": "x3",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "H★4 Learning the Light Bowgun",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1136731835",
+     "amount": "x3",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "H★4 Lost and Found",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1285199448",
+     "amount": "x3",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "E★2 Rising Sun!?",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1528543694",
+     "amount": "x2",
+     "rate": "22%"
+    },
+    {
+     "quest_name": "E★2 Gotta Hoard Fast!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1174202863",
+     "amount": "x2",
+     "rate": "22%"
+    }
+   ]
+  },
+  {
+   "item_name": "Antidote Herb",
+   "item_description": "A primary ingredient in antidotes.",
+   "item_type": "2",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/927613616",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/927613616.png"
+  },
+  {
+   "item_name": "Fire Herb",
+   "item_description": "A wondrous, flammable plant. Useful for crafting explosives and Flaming Ammo.",
+   "item_type": "2",
+   "item_buy_price": "44",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1054715604",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1054715604.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Walking on Eggshells",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1959124696",
+     "amount": "x2",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "V★3 The Cactus Diet",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1943911954",
+     "amount": "x2",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "V★3 A Sandy Cabal",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2092363315",
+     "amount": "x2",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "V★4 Deliver the Liver",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1320741430",
+     "amount": "x2",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "H★2 Dawn of the Kestodon",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2143555406",
+     "amount": "x2",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "H★5 Bad Review",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1573593790",
+     "amount": "x3",
+     "rate": "14%"
+    }
+   ]
+  },
+  {
+   "item_name": "Flowfern",
+   "item_description": "This plant's leaves store ample water. A component for making Water Ammo.",
+   "item_type": "2",
+   "item_buy_price": "44",
+   "item_URL": "https://mhrise.kiranico.com/data/items/976940712",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/976940712.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Obnoxious Lord, Noxious Monster",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1987083934",
+     "amount": "x1",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "V★3 Breath of the Past",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2106088912",
+     "amount": "x1",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "V★3 Ladies of the Lake",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2120322545",
+     "amount": "x1",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "H★2 Hide, Hide, Hide!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2023587695",
+     "amount": "x1",
+     "rate": "18%"
+    },
+    {
+     "quest_name": "H★5 Flooded Forest Fiasco",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1588367967",
+     "amount": "x2",
+     "rate": "14%"
+    }
+   ]
+  },
+  {
+   "item_name": "Snow Herb",
+   "item_description": "A plant that radiates ice- cold air. Combine with other items to create Freeze Ammo.",
+   "item_type": "2",
+   "item_buy_price": "64",
+   "item_URL": "https://mhrise.kiranico.com/data/items/962707083",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/962707083.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★2 Plump and Juicy",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2117059430",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "V★2 A Frosty Paradise",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2130785031",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "V★2 Out Cold",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2044355364",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "V★2 Hmm, Not So Tasty...",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1684959899",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★1 Jumped in the Frost Islands",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1707146256",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★1 No Cure for the Common Baggi",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1721379889",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★1 Hot Topic Hooligans",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1826149290",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★4 Didn't Get the Memo",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1584060364",
+     "amount": "x1",
+     "rate": "20%"
+    },
+    {
+     "quest_name": "H★4 Dango Duty",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1166194438",
+     "amount": "x1",
+     "rate": "20%"
+    }
+   ]
+  },
+  {
+   "item_name": "Sleep Herb",
+   "item_description": "A plant containing sleeping agents. Used to craft tranquilizers.",
+   "item_type": "2",
+   "item_buy_price": "50",
+   "item_URL": "https://mhrise.kiranico.com/data/items/948457194",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/948457194.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★2 Plump and Juicy",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2117059430",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "quest_name": "V★2 A Frosty Paradise",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2130785031",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "quest_name": "V★2 Out Cold",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2044355364",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "quest_name": "V★2 Hmm, Not So Tasty...",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1684959899",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "quest_name": "H★1 Jumped in the Frost Islands",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1707146256",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "quest_name": "H★1 No Cure for the Common Baggi",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1721379889",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "quest_name": "H★1 Hot Topic Hooligans",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1826149290",
+     "amount": "x1",
+     "rate": "25%"
+    },
+    {
+     "quest_name": "H★4 Didn't Get the Memo",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1584060364",
+     "amount": "x2",
+     "rate": "16%"
+    },
+    {
+     "quest_name": "H★4 Dango Duty",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1166194438",
+     "amount": "x2",
+     "rate": "16%"
+    }
+   ]
+  },
+  {
+   "item_name": "Sunscorned Grass",
+   "item_description": "A strange and fragrant herb that grows in the shade. Used to make deodorant.",
+   "item_type": "2",
+   "item_buy_price": "70",
+   "item_URL": "https://mhrise.kiranico.com/data/items/991714889",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/991714889.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Obnoxious Lord, Noxious Monster",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1987083934",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★3 Breath of the Past",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2106088912",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★3 Ladies of the Lake",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2120322545",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★2 Hide, Hide, Hide!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2023587695",
+     "amount": "x1",
+     "rate": "14%"
+    }
+   ]
+  },
+  {
+   "item_name": "Gloamgrass Bud",
+   "item_description": "An herb that wilts under the sun's rays. Could it hold healing powers?",
+   "item_type": "2",
+   "item_buy_price": "1000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/636849774",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/636849774.png"
+  },
+  {
+   "item_name": "Felvine",
+   "item_description": "A Melynx's favorite food— they just have to steal it.",
+   "item_type": "2",
+   "item_buy_price": "14",
+   "item_URL": "https://mhrise.kiranico.com/data/items/651099663",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/651099663.png"
+  },
+  {
+   "item_name": "Blue Mushroom",
+   "item_description": "A mushroom infused with power-enhancing effects. Used in restorative items.",
+   "item_type": "2",
+   "item_buy_price": "24",
+   "item_URL": "https://mhrise.kiranico.com/data/items/132215956",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/132215956.png",
+   "monster_items": [
+    {
+     "monster": "Bullfango",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1829706311",
+     "rank": "High Rank",
+     "method": "Target Rewards",
+     "amount": "x4",
+     "rate": "13%"
+    }
+   ],
+   "quest_rewards": [
+    {
+     "quest_name": "V★1 Roly-poly Lanterns",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1636956044",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "V★1 Fungal Frustrations",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1651189677",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "V★1 Impious Peons",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1665963842",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "V★1 Help With Maintenance",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1814415203",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "V★2 Great Izuchi, Great Pain",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2088575904",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "V★2 Case of the Creepy Crawlies",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2073363194",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "V★3 Supply Run",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1881349724",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "H★1 Tired and Feathered",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1693420659",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "H★1 Wroggi Place, Wroggi Time",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1616167927",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "H★1 Off the Beaten Path",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1644651445",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "H★4 The Swirling Gale",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1555574798",
+     "amount": "x2",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★4 Divine Comedy",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1569808431",
+     "amount": "x2",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★4 Donning Toxicity",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1540364096",
+     "amount": "x2",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★4 Totally Not Cool, Kulu!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1180428071",
+     "amount": "x2",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★4 Honing Your Hunting Horn",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1075218149",
+     "amount": "x2",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★4 Learning the Light Bowgun",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1136731835",
+     "amount": "x2",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★4 Lost and Found",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1285199448",
+     "amount": "x2",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★5 Flooded Forest Fiasco",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1588367967",
+     "amount": "x3",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "E★2 Rising Sun!?",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1528543694",
+     "amount": "x1",
+     "rate": "24%"
+    },
+    {
+     "quest_name": "E★2 Gotta Hoard Fast!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1174202863",
+     "amount": "x1",
+     "rate": "24%"
+    }
+   ]
+  },
+  {
+   "item_name": "Mandragora",
+   "item_description": "A dangerous fungus said to draw the life out of people. Required to make max potions.",
+   "item_type": "2",
+   "item_buy_price": "400",
+   "item_URL": "https://mhrise.kiranico.com/data/items/145614936",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/145614936.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★4 Getting Back the Groceries",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1125010032",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★4 So Hot, It Melts Iron",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1334991319",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★4 THE BEST Quest",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1215007220",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★6 The Lava Caverns Sweep",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/697290355",
+     "amount": "x1",
+     "rate": "16%"
+    },
+    {
+     "quest_name": "H★7 Can't Kill It with Fire",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/182322183",
+     "amount": "x1",
+     "rate": "16%"
+    }
+   ]
+  },
+  {
+   "item_name": "Nitroshroom",
+   "item_description": "A hard-to-find mushroom that can generate blazing heat. Required to craft gunpowder.",
+   "item_type": "2",
+   "item_buy_price": "60",
+   "item_URL": "https://mhrise.kiranico.com/data/items/54569156",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/54569156.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Walking on Eggshells",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1959124696",
+     "amount": "x1",
+     "rate": "23%"
+    },
+    {
+     "quest_name": "V★3 The Cactus Diet",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1943911954",
+     "amount": "x1",
+     "rate": "23%"
+    },
+    {
+     "quest_name": "V★3 A Sandy Cabal",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2092363315",
+     "amount": "x1",
+     "rate": "23%"
+    },
+    {
+     "quest_name": "V★4 Deliver the Liver",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1320741430",
+     "amount": "x1",
+     "rate": "23%"
+    },
+    {
+     "quest_name": "H★2 Dawn of the Kestodon",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2143555406",
+     "amount": "x1",
+     "rate": "23%"
+    },
+    {
+     "quest_name": "H★5 Bad Review",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1573593790",
+     "amount": "x2",
+     "rate": "19%"
+    }
+   ]
+  },
+  {
+   "item_name": "Toadstool",
+   "item_description": "A mushroom that induces poison. Required to craft poison smoke bombs.",
+   "item_type": "2",
+   "item_buy_price": "75",
+   "item_URL": "https://mhrise.kiranico.com/data/items/250824858",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/250824858.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Obnoxious Lord, Noxious Monster",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1987083934",
+     "amount": "x1",
+     "rate": "21%"
+    },
+    {
+     "quest_name": "V★3 Breath of the Past",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2106088912",
+     "amount": "x1",
+     "rate": "21%"
+    },
+    {
+     "quest_name": "V★3 Ladies of the Lake",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2120322545",
+     "amount": "x1",
+     "rate": "21%"
+    },
+    {
+     "quest_name": "H★2 Hide, Hide, Hide!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2023587695",
+     "amount": "x1",
+     "rate": "21%"
+    },
+    {
+     "quest_name": "H★5 Flooded Forest Fiasco",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1588367967",
+     "amount": "x2",
+     "rate": "17%"
+    }
+   ]
+  },
+  {
+   "item_name": "Parashroom",
+   "item_description": "A mushroom that induces paralysis. Required to craft tranq bombs.",
+   "item_type": "2",
+   "item_buy_price": "150",
+   "item_URL": "https://mhrise.kiranico.com/data/items/203036901",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/203036901.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★1 Roly-poly Lanterns",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1636956044",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "V★1 Fungal Frustrations",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1651189677",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "V★1 Impious Peons",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1665963842",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "V★1 Help With Maintenance",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1814415203",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "V★2 Great Izuchi, Great Pain",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2088575904",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "V★2 Case of the Creepy Crawlies",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2073363194",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "V★3 Supply Run",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1881349724",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "H★1 Tired and Feathered",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1693420659",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "H★1 Wroggi Place, Wroggi Time",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1616167927",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "H★1 Off the Beaten Path",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1644651445",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "H★4 The Swirling Gale",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1555574798",
+     "amount": "x2",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★4 Divine Comedy",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1569808431",
+     "amount": "x2",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★4 Donning Toxicity",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1540364096",
+     "amount": "x2",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★4 Totally Not Cool, Kulu!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1180428071",
+     "amount": "x2",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★4 Honing Your Hunting Horn",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1075218149",
+     "amount": "x2",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★4 Learning the Light Bowgun",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1136731835",
+     "amount": "x2",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★4 Lost and Found",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1285199448",
+     "amount": "x2",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "E★2 Rising Sun!?",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1528543694",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "E★2 Gotta Hoard Fast!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1174202863",
+     "amount": "x1",
+     "rate": "15%"
+    }
+   ]
+  },
+  {
+   "item_name": "Exciteshroom",
+   "item_description": "Has a very strange aroma. Is it edible? Is it deadly? Required to make farcasters.",
+   "item_type": "2",
+   "item_buy_price": "180",
+   "item_URL": "https://mhrise.kiranico.com/data/items/265599163",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/265599163.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Walking on Eggshells",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1959124696",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★3 The Cactus Diet",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1943911954",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★3 A Sandy Cabal",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2092363315",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "V★4 Deliver the Liver",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1320741430",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★2 Dawn of the Kestodon",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2143555406",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★5 Bad Review",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1573593790",
+     "amount": "x2",
+     "rate": "12%"
+    }
+   ]
+  },
+  {
+   "item_name": "Bitterbug",
+   "item_description": "A bug with innate healing abilities. Used as a component of many medicines.",
+   "item_type": "2",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/843702129",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/843702129.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★1 Roly-poly Lanterns",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1636956044",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "V★1 Fungal Frustrations",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1651189677",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "V★1 Impious Peons",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1665963842",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "V★1 Help With Maintenance",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1814415203",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "V★2 Great Izuchi, Great Pain",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2088575904",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "V★2 Case of the Creepy Crawlies",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2073363194",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "V★3 Supply Run",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1881349724",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "H★1 Tired and Feathered",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1693420659",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "H★1 Wroggi Place, Wroggi Time",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1616167927",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "H★1 Off the Beaten Path",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1644651445",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "H★4 The Swirling Gale",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1555574798",
+     "amount": "x1",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Divine Comedy",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1569808431",
+     "amount": "x1",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Donning Toxicity",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1540364096",
+     "amount": "x1",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Totally Not Cool, Kulu!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1180428071",
+     "amount": "x1",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Honing Your Hunting Horn",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1075218149",
+     "amount": "x1",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Learning the Light Bowgun",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1136731835",
+     "amount": "x1",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "H★4 Lost and Found",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1285199448",
+     "amount": "x1",
+     "rate": "13%"
+    },
+    {
+     "quest_name": "E★2 Rising Sun!?",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1528543694",
+     "amount": "x1",
+     "rate": "8%"
+    },
+    {
+     "quest_name": "E★2 Gotta Hoard Fast!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1174202863",
+     "amount": "x1",
+     "rate": "8%"
+    }
+   ]
+  },
+  {
+   "item_name": "Godbug",
+   "item_description": "An insect said to live a millennium. Combine it with other items to add their properties to the powder.",
+   "item_type": "2",
+   "item_buy_price": "320",
+   "item_URL": "https://mhrise.kiranico.com/data/items/12231861",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/12231861.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Walking on Eggshells",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1959124696",
+     "amount": "x1",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "V★3 The Cactus Diet",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1943911954",
+     "amount": "x1",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "V★3 A Sandy Cabal",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2092363315",
+     "amount": "x1",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "V★4 Getting Back the Groceries",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1125010032",
+     "amount": "x1",
+     "rate": "11%"
+    },
+    {
+     "quest_name": "V★4 Deliver the Liver",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1320741430",
+     "amount": "x1",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "V★4 So Hot, It Melts Iron",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1334991319",
+     "amount": "x1",
+     "rate": "11%"
+    },
+    {
+     "quest_name": "V★4 THE BEST Quest",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1215007220",
+     "amount": "x1",
+     "rate": "11%"
+    },
+    {
+     "quest_name": "H★2 Dawn of the Kestodon",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2143555406",
+     "amount": "x1",
+     "rate": "9%"
+    },
+    {
+     "quest_name": "H★5 Bad Review",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1573593790",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★6 The Lava Caverns Sweep",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/697290355",
+     "amount": "x1",
+     "rate": "14%"
+    },
+    {
+     "quest_name": "H★7 Can't Kill It with Fire",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/182322183",
+     "amount": "x1",
+     "rate": "14%"
+    }
+   ]
+  },
+  {
+   "item_name": "Thunderbug",
+   "item_description": "An insect that sparks when hit. Required to make Shock Traps and Thunder Ammo.",
+   "item_type": "2",
+   "item_buy_price": "300",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1006927671",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1006927671.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Obnoxious Lord, Noxious Monster",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1987083934",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "V★3 Breath of the Past",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2106088912",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "V★3 Ladies of the Lake",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2120322545",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "H★2 Hide, Hide, Hide!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2023587695",
+     "amount": "x1",
+     "rate": "15%"
+    },
+    {
+     "quest_name": "H★5 Flooded Forest Fiasco",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1588367967",
+     "amount": "x1",
+     "rate": "14%"
+    }
+   ]
+  },
+  {
+   "item_name": "Flashbug",
+   "item_description": "An insect that emits a blinding flash when it dies. Required to make Flash Bombs.",
+   "item_type": "2",
+   "item_buy_price": "96",
+   "item_URL": "https://mhrise.kiranico.com/data/items/857935638",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/857935638.png",
+   "monster_items": [
+    {
+     "monster": "Bnahabra",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/470812912",
+     "rank": "Low Rank",
+     "method": "Target Rewards",
+     "amount": "x1",
+     "rate": "10%"
+    }
+   ],
+   "quest_rewards": [
+    {
+     "quest_name": "V★2 Plump and Juicy",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2117059430",
+     "amount": "x1",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "V★2 A Frosty Paradise",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2130785031",
+     "amount": "x1",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "V★2 Out Cold",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2044355364",
+     "amount": "x1",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "V★2 Hmm, Not So Tasty...",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1684959899",
+     "amount": "x1",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★1 Jumped in the Frost Islands",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1707146256",
+     "amount": "x1",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★1 No Cure for the Common Baggi",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1721379889",
+     "amount": "x1",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★1 Hot Topic Hooligans",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1826149290",
+     "amount": "x1",
+     "rate": "12%"
+    },
+    {
+     "quest_name": "H★4 Didn't Get the Memo",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1584060364",
+     "amount": "x1",
+     "rate": "16%"
+    },
+    {
+     "quest_name": "H★4 Dango Duty",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1166194438",
+     "amount": "x1",
+     "rate": "16%"
+    }
+   ]
+  },
+  {
+   "item_name": "Scatterfish",
+   "item_description": "A shrapnel-spewing fish. Mix with a large barrel bomb for a dramatic firepower boost.",
+   "item_type": "2",
+   "item_buy_price": "300",
+   "item_URL": "https://mhrise.kiranico.com/data/items/520443033",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/520443033.png"
+  },
+  {
+   "item_name": "Popfish",
+   "item_description": "A fish that literally pops when it dies. Required to craft cleanser.",
+   "item_type": "2",
+   "item_buy_price": "38",
+   "item_URL": "https://mhrise.kiranico.com/data/items/2018214573",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2018214573.png"
+  },
+  {
+   "item_name": "Dung",
+   "item_description": "Exactly as stated. Exudes a pungent smell. Used to make dung bombs.",
+   "item_type": "2",
+   "item_buy_price": "10",
+   "item_URL": "https://mhrise.kiranico.com/data/items/628884984",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/628884984.png"
+  },
+  {
+   "item_name": "Smokenut",
+   "item_description": "A nut that produces torrents of smoke. Combine with other items to add more effects.",
+   "item_type": "2",
+   "item_buy_price": "44",
+   "item_URL": "https://mhrise.kiranico.com/data/items/664809004",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/664809004.png",
+   "quest_rewards": [
+    {
+     "quest_name": "V★3 Obnoxious Lord, Noxious Monster",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1987083934",
+     "amount": "x1",
+     "rate": "16%"
+    },
+    {
+     "quest_name": "V★3 Breath of the Past",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2106088912",
+     "amount": "x1",
+     "rate": "16%"
+    },
+    {
+     "quest_name": "V★3 Ladies of the Lake",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2120322545",
+     "amount": "x1",
+     "rate": "16%"
+    },
+    {
+     "quest_name": "H★2 Hide, Hide, Hide!",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/2023587695",
+     "amount": "x1",
+     "rate": "16%"
+    },
+    {
+     "quest_name": "H★5 Flooded Forest Fiasco",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1588367967",
+     "amount": "x2",
+     "rate": "10%"
+    }
+   ]
+  },
+  {
+   "item_name": "Latchberry",
+   "item_description": "A nut that bears a spiral groove. Used to make Pierce Ammo.",
+   "item_type": "2",
+   "item_buy_price": "22",
+   "item_URL": "https://mhrise.kiranico.com/data/items/55489640",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/55489640.png"
+  },
+  {
+   "item_name": "Needleberry",
+   "item_description": "A nut covered in needle-like spines. Used to make Spread Ammo.",
+   "item_type": "2",
+   "item_buy_price": "22",
+   "item_URL": "https://mhrise.kiranico.com/data/items/573848963",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/573848963.png"
+  },
+  {
+   "item_name": "Huskberry",
+   "item_description": "A nut with a rock-hard shell. Used to make Shrapnel Ammo.",
+   "item_type": "2",
+   "item_buy_price": "40",
+   "item_URL": "https://mhrise.kiranico.com/data/items/559074786",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/559074786.png"
+  },
+  {
+   "item_name": "Blastnut",
+   "item_description": "A nut used to make Sticky Ammo.",
+   "item_type": "2",
+   "item_buy_price": "120",
+   "item_URL": "https://mhrise.kiranico.com/data/items/770104641",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/770104641.png"
+  },
+  {
+   "item_name": "Bomberry",
+   "item_description": "A nut that ruptures on impact. Used to make cluster bombs.",
+   "item_type": "2",
+   "item_buy_price": "40",
+   "item_URL": "https://mhrise.kiranico.com/data/items/588082592",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/588082592.png"
+  },
+  {
+   "item_name": "Dragonfell Berry",
+   "item_description": "A mysterious berry, thought to be loathed by dragons. Needed to make Dragon Ammo.",
+   "item_type": "2",
+   "item_buy_price": "780",
+   "item_URL": "https://mhrise.kiranico.com/data/items/544841165",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/544841165.png",
+   "monster_items": [
+    {
+     "monster": "Uroktor",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/233991938",
+     "rank": "High Rank",
+     "method": "Target Rewards",
+     "amount": "x3",
+     "rate": "12%"
+    },
+    {
+     "monster": "Uroktor",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/233991938",
+     "rank": "Low Rank",
+     "method": "Carves",
+     "amount": "x1",
+     "rate": "10%"
+    },
+    {
+     "monster": "Uroktor",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/233991938",
+     "rank": "Low Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x1",
+     "rate": "10%"
+    },
+    {
+     "monster": "Uroktor",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/233991938",
+     "rank": "High Rank",
+     "method": "Carves",
+     "amount": "x2",
+     "rate": "10%"
+    },
+    {
+     "monster": "Uroktor",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/233991938",
+     "rank": "High Rank",
+     "method": "Items Obtained by Palico",
+     "amount": "x2",
+     "rate": "10%"
+    }
+   ],
+   "quest_rewards": [
+    {
+     "quest_name": "V★4 Getting Back the Groceries",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1125010032",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "V★4 So Hot, It Melts Iron",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1334991319",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "V★4 THE BEST Quest",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/1215007220",
+     "amount": "x1",
+     "rate": "19%"
+    },
+    {
+     "quest_name": "H★6 The Lava Caverns Sweep",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/697290355",
+     "amount": "x1",
+     "rate": "16%"
+    },
+    {
+     "quest_name": "H★7 Can't Kill It with Fire",
+     "quest_url": "https://mhrise.kiranico.com/data/quests/182322183",
+     "amount": "x1",
+     "rate": "16%"
+    }
+   ]
+  },
+  {
+   "item_name": "Slashberry",
+   "item_description": "Used to make Slicing Ammo.",
+   "item_type": "2",
+   "item_buy_price": "60",
+   "item_URL": "https://mhrise.kiranico.com/data/items/798063879",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/798063879.png"
+  },
+  {
+   "item_name": "Dragonstrike Nut",
+   "item_description": "A nut that explodes on impact. Used to make Wyvern Ammo.",
+   "item_type": "2",
+   "item_buy_price": "40",
+   "item_URL": "https://mhrise.kiranico.com/data/items/783813990",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/783813990.png"
+  },
+  {
+   "item_name": "Gunpowder Lv2",
+   "item_description": "Combustible powder. Combine with level 1 ammo to raise its level.",
+   "item_type": "2",
+   "item_buy_price": "16",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1709870256",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1709870256.png"
+  },
+  {
+   "item_name": "Flamenut",
+   "item_description": "Used to make gunpowder that increases ammo firepower.",
+   "item_type": "2",
+   "item_buy_price": "60",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1857880968",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1857880968.png"
+  },
+  {
+   "item_name": "Combustuna",
+   "item_description": "A fish that ignites upon death. Mix with fire herbs to make gunpowder.",
+   "item_type": "2",
+   "item_buy_price": "120",
+   "item_URL": "https://mhrise.kiranico.com/data/items/328733957",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/328733957.png"
+  },
+  {
+   "item_name": "Big Combustuna",
+   "item_description": "A jumbo-sized Combustuna. Mix with fire herbs to get lots of gunpowder.",
+   "item_type": "2",
+   "item_buy_price": "360",
+   "item_URL": "https://mhrise.kiranico.com/data/items/477185338",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/477185338.png"
+  },
+  {
+   "item_name": "Gunpowder Lv3",
+   "item_description": "Highly combustible powder. Combine with level 1 ammo to raise its level.",
+   "item_type": "2",
+   "item_buy_price": "30",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1724120145",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1724120145.png"
+  },
+  {
+   "item_name": "Blazenut",
+   "item_description": "Used to make gunpowder that greatly increases ammo firepower.",
+   "item_type": "2",
+   "item_buy_price": "60",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1843123179",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1843123179.png"
+  },
+  {
+   "item_name": "Flamefin",
+   "item_description": "A fish that ignites upon death. Mix with fire herbs to make quality gunpowder.",
+   "item_type": "2",
+   "item_buy_price": "120",
+   "item_URL": "https://mhrise.kiranico.com/data/items/491435227",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/491435227.png"
+  },
+  {
+   "item_name": "Great Flamefin",
+   "item_description": "A jumbo-sized Flamefin. Mix with fire herbs to make lots of quality gunpowder.",
+   "item_type": "2",
+   "item_buy_price": "360",
+   "item_URL": "https://mhrise.kiranico.com/data/items/505668856",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/505668856.png"
+  },
+  {
+   "item_name": "Normal Ammo 1",
+   "item_description": "Ammo for novices. Doesn't pack much oomph. Unlimited shots.",
+   "item_type": "4",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/931792983",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/931792983.png"
+  },
+  {
+   "item_name": "Normal Ammo 2",
+   "item_description": "Non-specialized ammo. More powerful than Normal Ammo 1.",
+   "item_type": "4",
+   "item_buy_price": "3",
+   "item_URL": "https://mhrise.kiranico.com/data/items/811825268",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/811825268.png"
+  },
+  {
+   "item_name": "Normal Ammo 3",
+   "item_description": "High-quality gunpowder ammo. Single-shot, but fast and impactful.",
+   "item_type": "4",
+   "item_buy_price": "5",
+   "item_URL": "https://mhrise.kiranico.com/data/items/826583061",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/826583061.png"
+  },
+  {
+   "item_name": "Pierce Ammo 1",
+   "item_description": "Armor-piercing ammo that deals multiple hits to some monsters.",
+   "item_type": "4",
+   "item_buy_price": "4",
+   "item_URL": "https://mhrise.kiranico.com/data/items/840833034",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/840833034.png"
+  },
+  {
+   "item_name": "Pierce Ammo 2",
+   "item_description": "High-grade armor-piercing ammo. Deals more hits than Pierce Ammo 1.",
+   "item_type": "4",
+   "item_buy_price": "8",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1022838827",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1022838827.png"
+  },
+  {
+   "item_name": "Pierce Ammo 3",
+   "item_description": "Max-grade armor-piercing ammo. Deals numerous hits.",
+   "item_type": "4",
+   "item_buy_price": "12",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1036566472",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1036566472.png"
+  },
+  {
+   "item_name": "Spread Ammo 1",
+   "item_description": "Ammo made for close combat. What it lacks in range, it makes up for in damage.",
+   "item_type": "4",
+   "item_buy_price": "4",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1050800105",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1050800105.png"
+  },
+  {
+   "item_name": "Spread Ammo 2",
+   "item_description": "Ammo made for close combat. Deals more hits than Spread Ammo 1.",
+   "item_type": "4",
+   "item_buy_price": "8",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1065049998",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1065049998.png"
+  },
+  {
+   "item_name": "Spread Ammo 3",
+   "item_description": "Max-grade ammo made for close combat. Deals numerous hits.",
+   "item_type": "4",
+   "item_buy_price": "12",
+   "item_URL": "https://mhrise.kiranico.com/data/items/945590191",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/945590191.png"
+  },
+  {
+   "item_name": "Shrapnel Ammo 1",
+   "item_description": "Ammo that covers a wide area. Who needs accuracy when you hit this much?",
+   "item_type": "4",
+   "item_buy_price": "3",
+   "item_URL": "https://mhrise.kiranico.com/data/items/873540448",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/873540448.png"
+  },
+  {
+   "item_name": "Shrapnel Ammo 2",
+   "item_description": "Ammo that covers a wide area. More range and even more hits than Shrapnel Ammo 1.",
+   "item_type": "4",
+   "item_buy_price": "6",
+   "item_URL": "https://mhrise.kiranico.com/data/items/921344769",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/921344769.png"
+  },
+  {
+   "item_name": "Shrapnel Ammo 3",
+   "item_description": "Max-grade shrapnel ammo that delivers maximum range and hit-count over a wide area.",
+   "item_type": "4",
+   "item_buy_price": "9",
+   "item_URL": "https://mhrise.kiranico.com/data/items/935578406",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/935578406.png"
+  },
+  {
+   "item_name": "Sticky Ammo 1",
+   "item_description": "Powerful pierce and burst ammo. Headshots may stun.",
+   "item_type": "4",
+   "item_buy_price": "12",
+   "item_URL": "https://mhrise.kiranico.com/data/items/959840076",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/959840076.png"
+  },
+  {
+   "item_name": "Sticky Ammo 2",
+   "item_description": "Very powerful pierce and burst ammo. Headshots may stun.",
+   "item_type": "4",
+   "item_buy_price": "24",
+   "item_URL": "https://mhrise.kiranico.com/data/items/974073709",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/974073709.png"
+  },
+  {
+   "item_name": "Sticky Ammo 3",
+   "item_description": "Powerful pierce and burst ammo. Headshots stun.",
+   "item_type": "4",
+   "item_buy_price": "36",
+   "item_URL": "https://mhrise.kiranico.com/data/items/636717490",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/636717490.png"
+  },
+  {
+   "item_name": "Cluster Bomb 1",
+   "item_description": "Ammo that fragments into three shells upon impact. Beware of friendly fire!",
+   "item_type": "4",
+   "item_buy_price": "30",
+   "item_URL": "https://mhrise.kiranico.com/data/items/618700546",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/618700546.png"
+  },
+  {
+   "item_name": "Cluster Bomb 2",
+   "item_description": "Ammo that fragments into four shells upon impact. Beware of friendly fire!",
+   "item_type": "4",
+   "item_buy_price": "60",
+   "item_URL": "https://mhrise.kiranico.com/data/items/632934179",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/632934179.png"
+  },
+  {
+   "item_name": "Cluster Bomb 3",
+   "item_description": "Ammo that fragments into five shells upon impact. Beware of friendly fire!",
+   "item_type": "4",
+   "item_buy_price": "90",
+   "item_URL": "https://mhrise.kiranico.com/data/items/651491667",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/651491667.png"
+  },
+  {
+   "item_name": "Flaming Ammo",
+   "item_description": "Ammo that packs a punch against monsters weak to fire element.",
+   "item_type": "4",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/675212793",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/675212793.png"
+  },
+  {
+   "item_name": "Piercing Fire Ammo",
+   "item_description": "Piercing ammo that discharges multiple heavy-hitting fire-element shots.",
+   "item_type": "4",
+   "item_buy_price": "26",
+   "item_URL": "https://mhrise.kiranico.com/data/items/573716695",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/573716695.png"
+  },
+  {
+   "item_name": "Water Ammo",
+   "item_description": "Ammo that packs a punch against monsters weak to water element.",
+   "item_type": "4",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/688938398",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/688938398.png"
+  },
+  {
+   "item_name": "Piercing Water Ammo",
+   "item_description": "Piercing ammo that discharges multiple heavy-hitting water-element shots.",
+   "item_type": "4",
+   "item_buy_price": "26",
+   "item_URL": "https://mhrise.kiranico.com/data/items/587950324",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/587950324.png"
+  },
+  {
+   "item_name": "Thunder Ammo",
+   "item_description": "Ammo that packs a punch against monsters weak to thunder element.",
+   "item_type": "4",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/736726463",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/736726463.png"
+  },
+  {
+   "item_name": "Piercing Thunder Ammo",
+   "item_description": "Piercing ammo that discharges multiple heavy-hitting thunder-element shots.",
+   "item_type": "4",
+   "item_buy_price": "26",
+   "item_URL": "https://mhrise.kiranico.com/data/items/784730250",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/784730250.png"
+  },
+  {
+   "item_name": "Freeze Ammo",
+   "item_description": "Ammo that packs a punch against monsters weak to ice element.",
+   "item_type": "4",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1422064988",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1422064988.png"
+  },
+  {
+   "item_name": "Piercing Ice Ammo",
+   "item_description": "Piercing ammo that discharges multiple heavy-hitting ice-element shots.",
+   "item_type": "4",
+   "item_buy_price": "26",
+   "item_URL": "https://mhrise.kiranico.com/data/items/770496661",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/770496661.png"
+  },
+  {
+   "item_name": "Dragon Ammo",
+   "item_description": "Ammo that packs a punch against monsters weak to dragon element.",
+   "item_type": "4",
+   "item_buy_price": "100",
+   "item_URL": "https://mhrise.kiranico.com/data/items/798980267",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/798980267.png"
+  },
+  {
+   "item_name": "Piercing Dragon Ammo",
+   "item_description": "Piercing ammo that discharges multiple heavy-hitting dragon-element shots.",
+   "item_type": "4",
+   "item_buy_price": "160",
+   "item_URL": "https://mhrise.kiranico.com/data/items/678471752",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/678471752.png"
+  },
+  {
+   "item_name": "Slicing Ammo",
+   "item_description": "Ammo that ejects sharp blades on impact, which can sever tails.",
+   "item_type": "4",
+   "item_buy_price": "12",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1436822909",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1436822909.png"
+  },
+  {
+   "item_name": "Wyvern Ammo",
+   "item_description": "Ammo created through years of research into Wyvern's Fire.",
+   "item_type": "4",
+   "item_buy_price": "62",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1451072786",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1451072786.png"
+  },
+  {
+   "item_name": "Poison Ammo 1",
+   "item_description": "Poisons target, but may require several shots.",
+   "item_type": "4",
+   "item_buy_price": "15",
+   "item_URL": "https://mhrise.kiranico.com/data/items/647184064",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/647184064.png"
+  },
+  {
+   "item_name": "Poison Ammo 2",
+   "item_description": "Enhanced ammo that inflicts poison. Some targets require multiple shots.",
+   "item_type": "4",
+   "item_buy_price": "30",
+   "item_URL": "https://mhrise.kiranico.com/data/items/661941985",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/661941985.png"
+  },
+  {
+   "item_name": "Paralysis Ammo 1",
+   "item_description": "Paralyzes target, but may require several shots.",
+   "item_type": "4",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/541974150",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/541974150.png"
+  },
+  {
+   "item_name": "Paralysis Ammo 2",
+   "item_description": "Enhanced ammo that inflicts paralysis. Some targets require multiple shots.",
+   "item_type": "4",
+   "item_buy_price": "30",
+   "item_URL": "https://mhrise.kiranico.com/data/items/556207783",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/556207783.png"
+  },
+  {
+   "item_name": "Sleep Ammo 1",
+   "item_description": "Induces sleep, but may require several shots.",
+   "item_type": "4",
+   "item_buy_price": "15",
+   "item_URL": "https://mhrise.kiranico.com/data/items/603487812",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/603487812.png"
+  },
+  {
+   "item_name": "Sleep Ammo 2",
+   "item_description": "Enhanced ammo that inflicts sleep. Some targets require multiple shots.",
+   "item_type": "4",
+   "item_buy_price": "30",
+   "item_URL": "https://mhrise.kiranico.com/data/items/751939173",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/751939173.png"
+  },
+  {
+   "item_name": "Exhaust Ammo 1",
+   "item_description": "Ammo that drains a monster's stamina.",
+   "item_type": "4",
+   "item_buy_price": "15",
+   "item_URL": "https://mhrise.kiranico.com/data/items/766189082",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/766189082.png"
+  },
+  {
+   "item_name": "Exhaust Ammo 2",
+   "item_description": "Enhanced special ammo that drains a monster's stamina.",
+   "item_type": "4",
+   "item_buy_price": "30",
+   "item_URL": "https://mhrise.kiranico.com/data/items/780947003",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/780947003.png"
+  },
+  {
+   "item_name": "Recover Ammo 1",
+   "item_description": "Ammo that restores a small amount of health to an ally upon impact.",
+   "item_type": "4",
+   "item_buy_price": "8",
+   "item_URL": "https://mhrise.kiranico.com/data/items/795196888",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/795196888.png"
+  },
+  {
+   "item_name": "Recover Ammo 2",
+   "item_description": "Ammo that restores a moderate amount of health to an ally upon impact.",
+   "item_type": "4",
+   "item_buy_price": "15",
+   "item_URL": "https://mhrise.kiranico.com/data/items/665725296",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/665725296.png"
+  },
+  {
+   "item_name": "Demon Ammo",
+   "item_description": "Ammo that fills the target with savage amounts of strength.",
+   "item_type": "4",
+   "item_buy_price": "180",
+   "item_URL": "https://mhrise.kiranico.com/data/items/545757457",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/545757457.png"
+  },
+  {
+   "item_name": "Armor Ammo",
+   "item_description": "Ammo that makes the target's skin as hard as stone.",
+   "item_type": "4",
+   "item_buy_price": "150",
+   "item_URL": "https://mhrise.kiranico.com/data/items/559466806",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/559466806.png"
+  },
+  {
+   "item_name": "Tranq Ammo",
+   "item_description": "Bowgun ammo used to capture monsters ensnared in traps.",
+   "item_type": "4",
+   "item_buy_price": "45",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1465306419",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1465306419.png"
+  },
+  {
+   "item_name": "Empty Phial",
+   "item_description": "A regular old empty phial. Nothing more, nothing less.",
+   "item_type": "2",
+   "item_buy_price": "5",
+   "item_URL": "https://mhrise.kiranico.com/data/items/141699357",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/141699357.png"
+  },
+  {
+   "item_name": "Power Coating",
+   "item_description": "An arrow coating that increases the attack power of arrows.",
+   "item_type": "5",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1344814288",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1344814288.png"
+  },
+  {
+   "item_name": "Poison Coating",
+   "item_description": "An arrow coating that applies poison effects to arrows.",
+   "item_type": "5",
+   "item_buy_price": "17",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1406852246",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1406852246.png"
+  },
+  {
+   "item_name": "Para Coating",
+   "item_description": "An arrow coating that applies paralysis effects to arrows.",
+   "item_type": "5",
+   "item_buy_price": "26",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1555827895",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1555827895.png"
+  },
+  {
+   "item_name": "Sleep Coating",
+   "item_description": "An arrow coating that applies sleep effects to arrows.",
+   "item_type": "5",
+   "item_buy_price": "17",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1570077780",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1570077780.png"
+  },
+  {
+   "item_name": "Blast Coating",
+   "item_description": "An arrow coating that applies explosive powder to arrows.",
+   "item_type": "5",
+   "item_buy_price": "20",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1584311413",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1584311413.png"
+  },
+  {
+   "item_name": "Close-range Coating",
+   "item_description": "Arrows that deal more damage to close targets, but reduces maximum range.",
+   "item_type": "5",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1598037098",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1598037098.png"
+  },
+  {
+   "item_name": "Exhaust Coating",
+   "item_description": "An arrow coating that applies a fatigue-inducing fluid to arrows.",
+   "item_type": "5",
+   "item_buy_price": "21",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1478052875",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1478052875.png"
+  },
+  {
+   "item_name": "First-aid Med",
+   "item_description": "Restores a small amount of health. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1446893439",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1446893439.png",
+   "monster_items": [
+    {
+     "monster": "Felyne",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1744255757",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "54%"
+    },
+    {
+     "monster": "Felyne",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1744255757",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "54%"
+    },
+    {
+     "monster": "Felyne",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1744255757",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "54%"
+    },
+    {
+     "monster": "Felyne",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1744255757",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "54%"
+    },
+    {
+     "monster": "Felyne",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1744255757",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "54%"
+    },
+    {
+     "monster": "Felyne",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1744255757",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "54%"
+    }
+   ]
+  },
+  {
+   "item_name": "First-aid Med+",
+   "item_description": "Restores a moderate amount of health. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1461126940",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1461126940.png"
+  },
+  {
+   "item_name": "EZ Max Potion",
+   "item_description": "Fully restores health. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1374189373",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1374189373.png"
+  },
+  {
+   "item_name": "EZ Ration",
+   "item_description": "Restores a small amount of stamina. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1432643422",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1432643422.png"
+  },
+  {
+   "item_name": "EZ Lifepowder",
+   "item_description": "Produces a cloud that heals you and anyone nearby. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1388422866",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1388422866.png"
+  },
+  {
+   "item_name": "EZ Dust of Life",
+   "item_description": "Produces a cloud that restores a large amount of health for you and anyone nearby. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1402672883",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1402672883.png"
+  },
+  {
+   "item_name": "EZ Herbal Powder",
+   "item_description": "Cures poison and restores a bit of health for everyone nearby. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1551648400",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1551648400.png"
+  },
+  {
+   "item_name": "EZ Demon Powder",
+   "item_description": "Temporarily strengthens attacks for everyone nearby. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1565898417",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1565898417.png"
+  },
+  {
+   "item_name": "EZ Hardshell Powder",
+   "item_description": "Temporarily increases defense for everyone nearby. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1580131926",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1580131926.png"
+  },
+  {
+   "item_name": "EZ Meat Bait",
+   "item_description": "Favored by the Flooded Forest Giganha. Used to attract hordes. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/2036776157",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2036776157.png"
+  },
+  {
+   "item_name": "EZ Large Barrel Bomb",
+   "item_description": "A powered-up large barrel bomb. As powerful as a mega barrel bomb. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1521677877",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1521677877.png"
+  },
+  {
+   "item_name": "EZ Pitfall Trap",
+   "item_description": "Activates a pitfall to catch monsters with. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1507427860",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1507427860.png"
+  },
+  {
+   "item_name": "EZ Shock Trap",
+   "item_description": "Immobilizes a target for easy capture. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1593857655",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1593857655.png"
+  },
+  {
+   "item_name": "EZ Flash Bomb",
+   "item_description": "A bomb that flashes brightly on impact. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1148032459",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1148032459.png"
+  },
+  {
+   "item_name": "EZ Sonic Bomb",
+   "item_description": "Emits a high-frequency blast of sound on detonation. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1536435754",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1536435754.png"
+  },
+  {
+   "item_name": "EZ Dung Bomb",
+   "item_description": "A particularly odorous ball that causes monsters to flee. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/657368510",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/657368510.png"
+  },
+  {
+   "item_name": "EZ Farcaster",
+   "item_description": "Transports you to the nearest camp in an instant. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1162266088",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1162266088.png"
+  },
+  {
+   "item_name": "EZ Tranq Bomb",
+   "item_description": "A bomb used to capture monsters ensnared in traps. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1175991689",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1175991689.png"
+  },
+  {
+   "item_name": "Poison Kunai",
+   "item_description": "A throwing kunai with a venom-coated blade. Poisons targets. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/791015461",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/791015461.png"
+  },
+  {
+   "item_name": "Paralysis Kunai",
+   "item_description": "A throwing kunai coated with toxins that paralyze a target. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/718313467",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/718313467.png"
+  },
+  {
+   "item_name": "Sleep Kunai",
+   "item_description": "A throwing kunai that has been dusted with sleeping agents. (Supply Item)",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/704587738",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/704587738.png"
+  },
+  {
+   "item_name": "Jumbofruit",
+   "item_description": "A massive fruit that restores health when eaten. Removed post-quest since it spoils.",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1002530362",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1002530362.png",
+   "monster_items": [
+    {
+     "monster": "Bishaten",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1935814960",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "100%"
+    },
+    {
+     "monster": "Bishaten",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1935814960",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "100%"
+    }
+   ]
+  },
+  {
+   "item_name": "Poisonfruit",
+   "item_description": "Fruit that turns poisonous when it decomposes. Too dangerous to keep after a quest.",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/2068912822",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/2068912822.png",
+   "monster_items": [
+    {
+     "monster": "Bishaten",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1935814960",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "100%"
+    },
+    {
+     "monster": "Bishaten",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1935814960",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "100%"
+    }
+   ]
+  },
+  {
+   "item_name": "Parafruit",
+   "item_description": "Fruit with an aroma so spicy it's paralyzing. Too dangerous to keep after a quest.",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1680493143",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1680493143.png",
+   "monster_items": [
+    {
+     "monster": "Bishaten",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1935814960",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "100%"
+    }
+   ]
+  },
+  {
+   "item_name": "Flashfruit",
+   "item_description": "Fruit that pops with a bright flash if shaken. Too dangerous to keep after a quest.",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1694743156",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1694743156.png",
+   "monster_items": [
+    {
+     "monster": "Bishaten",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1935814960",
+     "rank": "Low Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "100%"
+    },
+    {
+     "monster": "Bishaten",
+     "monster_url": "https://mhrise.kiranico.com/data/monsters/1935814960",
+     "rank": "High Rank",
+     "method": "Dropped Materials",
+     "amount": "x1",
+     "rate": "100%"
+    }
+   ]
+  },
+  {
+   "item_name": "Gray Seed",
+   "item_description": "Seeds from a monster, soaked in explosive oil. Too dangerous to keep after a quest.",
+   "item_type": "2",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1388043150",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1388043150.png"
+  },
+  {
+   "item_name": "Crimson Seed",
+   "item_description": "Seeds from a monster, soaked in explosive oil. Too dangerous to keep after a quest.",
+   "item_type": "2",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1402801071",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1402801071.png"
+  },
+  {
+   "item_name": "Blue Seed",
+   "item_description": "Seeds from a monster, soaked with water. Too dangerous to keep after a quest.",
+   "item_type": "2",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1161361988",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1161361988.png"
+  },
+  {
+   "item_name": "Gold Seed",
+   "item_description": "Seeds from a monster, buzzing with electricity. Too dangerous to keep after a quest.",
+   "item_type": "2",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1175595621",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1175595621.png"
+  },
+  {
+   "item_name": "Silver Seed",
+   "item_description": "Seeds from a monster, chilled with cold air. Too dangerous to keep after a quest.",
+   "item_type": "2",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1089182234",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1089182234.png"
+  },
+  {
+   "item_name": "Exploding Kunai",
+   "item_description": "Kunai slathered in explosive gray seed oil. Too dangerous to keep after a quest.",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/206822260",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/206822260.png"
+  },
+  {
+   "item_name": "Fire Barrel Bomb",
+   "item_description": "A highly potent crimson seed barrel bomb. Too dangerous to keep after a quest.",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/58354519",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/58354519.png"
+  },
+  {
+   "item_name": "Water Barrel Bomb",
+   "item_description": "A water-scattering blue seed barrel bomb. Too dangerous to keep after a quest.",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1521806049",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1521806049.png"
+  },
+  {
+   "item_name": "Thunder Barrel Bomb",
+   "item_description": "An electrifying gold seed barrel bomb. Too dangerous to keep after a quest.",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1536055942",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1536055942.png"
+  },
+  {
+   "item_name": "Ice Barrel Bomb",
+   "item_description": "A freezing silver seed barrel bomb. Too dangerous to keep after a quest.",
+   "item_type": "0",
+   "item_buy_price": "1",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1147636391",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1147636391.png"
+  },
+  {
+   "item_name": "Mountshrooms",
+   "item_description": "A heaping mushroom platter. Made with shrooms of all types and sizes.",
+   "item_type": "2",
+   "item_buy_price": "2000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/1809875133",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/1809875133.png"
+  },
+  {
+   "item_name": "Shadeshrooms",
+   "item_description": "A random assortment of mushrooms—some deadly, some valuable.",
+   "item_type": "2",
+   "item_buy_price": "11000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/347730002",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/347730002.png"
+  },
+  {
+   "item_name": "Stargazer Flower",
+   "item_description": "A plant that looks to the heavens when it blooms. Its petals are used to make dye.",
+   "item_type": "2",
+   "item_buy_price": "2000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/361963635",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/361963635.png"
+  },
+  {
+   "item_name": "Stargazer Bloom",
+   "item_description": "A stargazer flower in full bloom. Its dignified display outshines the starry sky.",
+   "item_type": "2",
+   "item_buy_price": "11000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/376737808",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/376737808.png"
+  },
+  {
+   "item_name": "Sinister Cloth",
+   "item_description": "Found long ago in the tomb of a king from a long- forgotten desert land.",
+   "item_type": "2",
+   "item_buy_price": "3000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/390971441",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/390971441.png"
+  },
+  {
+   "item_name": "Sinister Darkcloth",
+   "item_description": "A burial cloth said to have shrouded an ancient desert king. Believed to be cursed.",
+   "item_type": "2",
+   "item_buy_price": "13000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/271005654",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/271005654.png"
+  },
+  {
+   "item_name": "Bumblepumpkin",
+   "item_description": "A trendy orange pumpkin. If left undisturbed, it can grow to be gigantic.",
+   "item_type": "2",
+   "item_buy_price": "3000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/318269431",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/318269431.png"
+  },
+  {
+   "item_name": "Omegapumpkin",
+   "item_description": "Bumblepumpkins that grow to be this gigantic are referred to as \"Omegakins.\"",
+   "item_type": "2",
+   "item_buy_price": "13000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/332519316",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/332519316.png"
+  },
+  {
+   "item_name": "Cutejelly",
+   "item_description": "A jellyfish with a uniquely cute pattern. Looks fluffy, but don't touch it.",
+   "item_type": "2",
+   "item_buy_price": "4000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/480970677",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/480970677.png"
+  },
+  {
+   "item_name": "Gothjelly",
+   "item_description": "A gothic-looking jellyfish with the same unique pattern, but more frills.",
+   "item_type": "2",
+   "item_buy_price": "20000",
+   "item_URL": "https://mhrise.kiranico.com/data/items/495744938",
+   "item_avatar": "https://cdn.kiranico.net/file/kiranico/mhrise-web/images/items/495744938.png"
+  }
+ ]
+}
