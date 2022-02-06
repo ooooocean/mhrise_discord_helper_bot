@@ -104,8 +104,8 @@ async def on_message(search_message):
 
                 if int(item['item_type']) == 0:
                     item_type = "Consumable"
-                    if int(item['item_type']) == 2:
-                        item_type = "Material"
+                if int(item['item_type']) == 2:
+                    item_type = "Material"
 
                 print('Attempting to find monster drop data...')
 
